@@ -1,4 +1,4 @@
-// Routes are defiend in App.js
+// Routes are defined in App.js
 
 import logo from './logo.svg';
 import './App.css';
