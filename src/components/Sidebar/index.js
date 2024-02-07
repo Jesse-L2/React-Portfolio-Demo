@@ -32,6 +32,11 @@ const Sidebar = () => (
         <FontAwesomeIcon icon={faEnvelope} color="#4e4e4e" />
       </NavLink>
     </nav>
+    <ul>
+      <li>
+        <a target="_blank" rel="noreferrer" href="https://www.linkedin.com"><FontAwesomeIcon icon={faLinkedin} color="#4d4d4e"</a>
+      </li>
+    </ul>
   </div>
 );
 
