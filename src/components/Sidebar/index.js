@@ -36,6 +36,12 @@ const Sidebar = () => (
       <li>
         <a target="_blank" rel="noreferrer" href="https://www.linkedin.com"><FontAwesomeIcon icon={faLinkedin} color="#4d4d4e"</a>
       </li>
+      <li>
+        <a target="_blank" rel="noreferrer" href="https://www.github.com"><FontAwesomeIcon icon={faGithub} color="#4d4d4e"</a>
+      </li>
+      <li>
+        <a target="_blank" rel="noreferrer" href="https://www.youtube.com"><FontAwesomeIcon icon={faYoutube} color="#4d4d4e"</a>
+      </li>
     </ul>
   </div>
 );
