@@ -6,7 +6,8 @@ const Home = () => {
       <div className="text-zone"></div>
       <h1>
         Hi, <br />
-        <img src={LogoTitle} alt="developer"> how are you?
+        <img src={LogoTitle} alt="developer">
+          how are you? 
       </h1>
       <h2>Fullstack Web Developer</h2>
       <Link to="/contact" className="flat-button">Contact Me</Link>
